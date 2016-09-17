@@ -1,0 +1,3 @@
+{
+  "extends": ["hashdard", "standard-jsx"]
+}
