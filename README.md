@@ -97,6 +97,12 @@ a `hashdard.ignore` property to `package.json`:
 
 See [feross/standard] for more information.
 
+## About Hash Labs
+
+![hash labs logo](https://www.hashlabs.com/images/hashlabs_logo_horizontal_02.png)
+
+hashdard is maintained and funded by Hash Labs LLC
+
 [npm-image]: https://img.shields.io/npm/v/hashdard.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/hashdard
 [downloads-image]: https://img.shields.io/npm/dm/hashdard.svg?style=flat-square

@@ -3,11 +3,11 @@ var pkg = require('./package.json');
 
 module.exports = {
   // cmd, homepage, bugs all pulled from package.json
-  cmd: 'hashdard',
+  cmd: pkg.name,
   version: pkg.version,
   homepage: pkg.homepage,
   bugs: pkg.bugs.url,
-  tagline: 'Hash Labs Styleguide',
+  tagline: pkg.description,
   eslint: require('eslint'),
   eslintConfig: {
     configFile: path.join(__dirname, 'eslintrc.json')
