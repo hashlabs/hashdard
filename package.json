@@ -1,11 +1,12 @@
 {
   "name": "hashdard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🌟 Hash Labs JavaScript Style Guide",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./bin/cmd.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hashlabs/hashdard.git"
