@@ -1,6 +1,6 @@
 {
   "name": "hashdard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "🌟 Hash Labs JavaScript Style Guide",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
   "homepage": "https://github.com/hashlabs/hashdard#readme",
   "dependencies": {
     "eslint": "^3.4.0",
-    "eslint-config-hashdard": "^1.0.2",
+    "eslint-config-hashdard": "^1.0.3",
     "eslint-config-standard": "6.0.0",
     "eslint-config-standard-jsx": "3.0.0",
     "eslint-plugin-flowtype": "^2.18.1",
