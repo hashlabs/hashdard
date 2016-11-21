@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+* Inverted the order of eslintrc.json extended rules, to apply custom rules on top of them
+
 ## [1.0.4] - 2016-11-21
 ### Changed
 * Updating eslint-hashdard-config
